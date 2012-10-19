@@ -1,0 +1,1 @@
+Finnish translations for OSClass.
