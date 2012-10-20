@@ -11,7 +11,7 @@ _package:
 	@echo "Build language packages..."
 	@mkdir -p build
 	@cp -r src/fi_FI build/
-	@cd build ; zip -r osclass-fi_FI.zip fi_FI/*
+	@cd build ; zip -r osclass-fi_FI.zip fi_FI
 	@echo "Done."
 
 _clean_package:
