@@ -10,15 +10,9 @@ clean: _clean_package
 _package:
 	@echo "Build language packages..."
 	@mkdir -p build
-	@ls -d 3.*.* | while read f ; do \
-		FILE="build/osclass-fi_FI-$$f.zip" ; \
-		echo "Building package $$FILE ..." ; \
-		pushd . > /dev/null ; \
-		cd "$$f" ; \
-		zip -r "../$$FILE" "fi_FI" ; \
-		popd >/dev/null ; \
-		echo "Done." \
-	; done
+	@cp -r src/fi_FI build/
+	@cd build ; zip -r osclass-fi_FI.zip fi_FI/*
+	@echo "Done."
 
 _clean_package:
 	@echo "Cleaning up..."
