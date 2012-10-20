@@ -4,64 +4,64 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-12 18:18+0100\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Juan Ramón <juanramon@osclass.org>\n"
+"Last-Translator: Mikko Vatanen <mikko@vapaatyyli.fi>\n"
 "Language-Team: OSClass <info@osclass.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: English\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=n !=1;\n"
-"X-Poedit-Country: UNITED STATES\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: /var/www/osclass-git/oc-content/themes/modern\n"
 
 #: /var/www/osclass-git/oc-content/themes/modern/404.php:33
 msgid "Page not found"
-msgstr ""
+msgstr "Sivua ei löytynyt"
 
 #: /var/www/osclass-git/oc-content/themes/modern/alert-form.php:6
 msgid "You have sucessfully subscribed to the alert"
-msgstr ""
+msgstr "Sinulle on lisätty ilmoitus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/alert-form.php:7
 msgid "Invalid email address"
-msgstr ""
+msgstr "Virheellinen sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/alert-form.php:8
 msgid "There was a problem with the alert"
-msgstr ""
+msgstr "Virhe muistutuksen käsittelyssä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/alert-form.php:39
 msgid "Subscribe to this search"
-msgstr ""
+msgstr "Lisää muistutus kyselystä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/alert-form.php:55
 msgid "Subscribe now"
-msgstr ""
+msgstr "Lisää muistutus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:34
 msgid "Contact us"
-msgstr ""
+msgstr "Ota yhteyttä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:40
 msgid "Subject"
-msgstr ""
+msgstr "Aihe"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:40
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:42
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:51
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:218
 msgid "optional"
-msgstr ""
+msgstr "vapaaehtoinen"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:41
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:52
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:51
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:219
 msgid "Message"
-msgstr ""
+msgstr "Viesti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:42
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:48
@@ -69,451 +69,469 @@ msgstr ""
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:153
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:216
 msgid "Your name"
-msgstr ""
+msgstr "Nimi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:43
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:49
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:47
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:217
 msgid "Your e-mail address"
-msgstr ""
+msgstr "Sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/contact.php:45
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:54
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:158
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:239
 msgid "Send"
-msgstr ""
+msgstr "Lähetä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/footer.php:28
 msgid "Contact"
-msgstr ""
+msgstr "Yhteystiedot"
 
 #: /var/www/osclass-git/oc-content/themes/modern/footer.php:35
-msgid "This website is proudly using the <a title=\"OSClass web\" href=\"http://osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
+msgid ""
+"This website is proudly using the <a title=\"OSClass web\" href=\"http://"
+"osclass.org/\">classifieds scripts</a> software <strong>OSClass</strong>"
 msgstr ""
+"Tämä sivusto käyttää<a title=\"OSClass web\" href=\"http://osclass.org/"
+"\">classifieds scripts</a> ohjelmistoa <strong>OSClass</strong>"
 
 #: /var/www/osclass-git/oc-content/themes/modern/footer.php:48
 msgid "Your search must be at least three characters long"
-msgstr ""
+msgstr "Haun tulee olla vähintään kolme merkkiä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:53
 msgid "Theme settings updated correctly"
-msgstr ""
+msgstr "Teeman asetukset päivitetty onnistuneesti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:60
 msgid "The logo image has been uploaded correctly"
-msgstr ""
+msgstr "Logokuva tallennettu palvelimelle onnistuneesti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:62
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:65
 msgid "An error has occurred, please try again"
-msgstr ""
+msgstr "Virhe pyynnön käsittelyssä, yritä uudelleen"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:72
 msgid "The logo image has been removed"
-msgstr ""
+msgstr "Logokuva poistettu"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:74
 msgid "Image not found"
-msgstr ""
+msgstr "Kuvaa ei löytynyt"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:81
 msgid "Header logo"
-msgstr ""
+msgstr "Otsikkologo"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:82
 msgid "Theme settings"
-msgstr ""
+msgstr "Teeman asetukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/functions.php:100
 msgid "ie. PHP Programmer"
-msgstr ""
+msgstr "esim. leijalauta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/head.php:44
 msgid "No file selected"
-msgstr ""
+msgstr "Ei valittua tiedostoa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/head.php:45
 msgid "Choose File"
-msgstr ""
+msgstr "Valitse tiedosto"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:34
 #, php-format
 msgid "Hi %s"
-msgstr ""
+msgstr "Hei %s"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:35
 msgid "My account"
-msgstr ""
+msgstr "Omat asetukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:36
 msgid "Logout"
-msgstr ""
+msgstr "Kirjaudu ulos"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:40
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:196
 msgid "Login"
-msgstr ""
+msgstr "Kirjaudu"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:43
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:197
 msgid "Register for a free account"
-msgstr ""
+msgstr "Rekisteröi ilmaiseksi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:49
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:162
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:206
 msgid "E-mail"
-msgstr ""
+msgstr "Sähköposti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:51
 msgid "Password"
-msgstr ""
+msgstr "Salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:53
 msgid "Remember me"
-msgstr ""
+msgstr "Muista minut"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:54
 msgid "Log in"
-msgstr ""
+msgstr "Kirjaudu sisään"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:56
 msgid "Forgot password?"
-msgstr ""
+msgstr "Unohdin salasanani?"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:66
 msgid "Language"
-msgstr ""
+msgstr "Kieli"
 
 #: /var/www/osclass-git/oc-content/themes/modern/header.php:79
 msgid "Publish your ad for free"
-msgstr ""
+msgstr "Jätä ilmoitus ilmaiseksi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/inc.search.php:54
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:107
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:105
 msgid "Select a category"
-msgstr ""
+msgstr "Valitse kategoria"
 
 #: /var/www/osclass-git/oc-content/themes/modern/inc.search.php:56
 msgid "Search"
-msgstr ""
+msgstr "Hae"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:34
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:101
 msgid "Contact seller"
-msgstr ""
+msgstr "Ota yhteys myyjään"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:42
 msgid "To (seller)"
-msgstr ""
+msgstr "Vastaanottaja (myyjä)"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:43
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:41
 msgid "Listing"
-msgstr ""
+msgstr "Ilmoitus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:51
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:218
 msgid "Phone number"
-msgstr ""
+msgstr "Puhelinnumero"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-contact.php:54
 msgid "Send message"
-msgstr ""
+msgstr "Lähetä viesti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:95
 msgid "Update your listing"
-msgstr ""
+msgstr "Päivitä omat ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:104
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:102
 msgid "General Information"
-msgstr ""
+msgstr "Perustiedot"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:106
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:104
 msgid "Category"
-msgstr ""
+msgstr "Kategoria"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:114
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:113
 msgid "Price"
-msgstr ""
+msgstr "Hinta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:122
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:120
 msgid "Photos"
-msgstr ""
+msgstr "Kuvat"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:131
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:126
 msgid "Add new photo"
-msgstr ""
+msgstr "Lisää uusi kuva"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:136
 #: /var/www/osclass-git/oc-content/themes/modern/main.php:120
 msgid "Location"
-msgstr ""
+msgstr "Sijainti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:138
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:133
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:74
 msgid "Country"
-msgstr ""
+msgstr "Maa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:142
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:137
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:75
 msgid "Region"
-msgstr ""
+msgstr "Kunta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:146
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:141
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:76
 msgid "City"
-msgstr ""
+msgstr "Kaupunki"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:150
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:77
 msgid "City area"
-msgstr ""
+msgstr "Kaupunginosa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:154
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:149
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:78
 msgid "Address"
-msgstr ""
+msgstr "Osoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:166
 msgid "Update"
-msgstr ""
+msgstr "Päivitä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-edit.php:167
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:95
 msgid "Publish a listing"
-msgstr ""
+msgstr "Julkaise ilmoitus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:131
 msgid "Listing Location"
-msgstr ""
+msgstr "Ilmoituspaikkakunta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:145
 msgid "City Area"
-msgstr ""
+msgstr "Kaupunginosa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:156
 msgid "Seller's information"
-msgstr ""
+msgstr "Myyjän tiedot"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:158
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:201
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:203
 msgid "Name"
-msgstr ""
+msgstr "Nimi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:169
 msgid "Show e-mail on the listing page"
-msgstr ""
+msgstr "Näytä sähköpostiosoite ilmoituksessa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-post.php:182
 msgid "Publish"
-msgstr ""
+msgstr "Julkaise"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:34
 msgid "Send to a friend"
-msgstr ""
+msgstr "Lähetä kaverille"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:49
 msgid "Your friend's name"
-msgstr ""
+msgstr "Kaverin nimi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item-send-friend.php:50
 msgid "Your friend's e-mail address"
-msgstr ""
+msgstr "Kaverin sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:56
 msgid "Mark as"
-msgstr ""
+msgstr "Merkitse"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:58
 msgid "spam"
-msgstr ""
+msgstr "roskaposti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:59
 msgid "misclassified"
-msgstr ""
+msgstr "väärä luokka"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:60
 msgid "duplicated"
-msgstr ""
+msgstr "ilmoitus kahteen kertaan"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:61
 msgid "expired"
-msgstr ""
+msgstr "vanhentunut"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:62
 msgid "offensive"
-msgstr ""
+msgstr "epäasiallinen"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:70
 msgid "Published date"
-msgstr ""
+msgstr "Julkaistu"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:71
 msgid "Modified date"
-msgstr ""
+msgstr "Muokattu"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:105
 msgid "Share"
-msgstr ""
+msgstr "Jaa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:111
 msgid "Useful information"
-msgstr ""
+msgstr "Hyödyllistä tietoa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:113
 msgid "Avoid scams by acting locally or paying with PayPal"
 msgstr ""
+"Vältä huijaukset toimimalla paikallisesti tai maksamalla Paypalin kautta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:114
-msgid "Never pay with Western Union, Moneygram or other anonymous payment services"
+msgid ""
+"Never pay with Western Union, Moneygram or other anonymous payment services"
 msgstr ""
+"Älä koskaan maksa nimettömien maksupalveluiden kautta, kuten Western Union, "
+"Moneygram jne."
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:115
-msgid "Don't buy or sell outside of your country. Don't accept cashier cheques from outside your country"
-msgstr ""
+msgid ""
+"Don't buy or sell outside of your country. Don't accept cashier cheques from "
+"outside your country"
+msgstr "Älä osta ulkomailta tai hyväksy ulkomaisia shekkejä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:116
-msgid "This site is never involved in any transaction, and does not handle payments, shipping, guarantee transactions, provide escrow services, or offer \"buyer protection\" or \"seller certification\""
+msgid ""
+"This site is never involved in any transaction, and does not handle "
+"payments, shipping, guarantee transactions, provide escrow services, or "
+"offer \"buyer protection\" or \"seller certification\""
 msgstr ""
+"Tämä sivusto ei käsittele maksuliikennettä, ei käsittele maksuja, "
+"kuljetusta, vakuusmaksuja, välityspalveluita tai tarjoa kuluttajansuojaa tai "
+"myyjän varmistusta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:122
 msgid "Comments"
-msgstr ""
+msgstr "Kommentit"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:129
 msgid "by"
-msgstr ""
+msgstr "kirjoittaja"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:133
 msgid "Delete your comment"
-msgstr ""
+msgstr "Poista kommentti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:133
 msgid "Delete"
-msgstr ""
+msgstr "POista"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:145
 msgid "Leave your comment (spam and offensive messages will be removed)"
-msgstr ""
+msgstr "Jätä kommentti (roskaposti ja epäasialliset viestit poistetaan)"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:154
 msgid "Your e-mail"
-msgstr ""
+msgstr "Sähköpostiosoitteesi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:156
 msgid "Title"
-msgstr ""
+msgstr "Otsikko"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:157
 msgid "Comment"
-msgstr ""
+msgstr "Kommentti"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:170
 msgid "Image"
-msgstr ""
+msgstr "Kuva"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:182
 msgid "Contact publisher"
-msgstr ""
+msgstr "Ota yhteys myyjään"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:185
 msgid "The listing is expired. You can't contact the publisher."
-msgstr ""
+msgstr "Ilmoitus on vanhentunut, et voi ottaa yhteyttä myyjään."
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:189
 msgid "It's your own listing, you can't contact the publisher."
-msgstr ""
+msgstr "Sinun oma ilmoitus, et voi ottaa yhteyttä myyjään."
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:193
-msgid "You must log in or register a new account in order to contact the advertiser"
+msgid ""
+"You must log in or register a new account in order to contact the advertiser"
 msgstr ""
+"Sinun täytyy kirjautua tai rekisteröityä, että voit ottaa yhteyttä myyjään"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:209
 msgid "Tel"
-msgstr ""
+msgstr "Puh"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:233
 msgid "Enter the words above"
-msgstr ""
+msgstr "Kirjoita ylläolevat sanat"
 
 #: /var/www/osclass-git/oc-content/themes/modern/item.php:235
 msgid "Help"
-msgstr ""
+msgstr "Apua"
 
 #: /var/www/osclass-git/oc-content/themes/modern/main.php:79
 msgid "Latest Listings"
-msgstr ""
+msgstr "Uusimmat ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/main.php:81
 msgid "No Latest Listings"
-msgstr ""
+msgstr "Ei uusia ilmoituksia"
 
 #: /var/www/osclass-git/oc-content/themes/modern/main.php:111
 msgid "See all offers"
-msgstr ""
+msgstr "Näytä kaikki ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:195
 msgid "Sort by"
-msgstr ""
+msgstr "Järjestä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:214
 #, php-format
 msgid "There are no results matching \"%s\""
-msgstr ""
+msgstr "Ei hakutuloksia sanalla \"%s\""
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:242
 msgid "Your search"
-msgstr ""
+msgstr "Hakuehdot"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:256
 msgid "Show only"
-msgstr ""
+msgstr "Näytä vain"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:261
 msgid "Show only listings with pictures"
-msgstr ""
+msgstr "Näytä vain kuvalliset ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:269
 msgid "Min"
-msgstr ""
+msgstr "Väh"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:271
 msgid "Max"
-msgstr ""
+msgstr "Enint"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:308
 msgid "Apply"
-msgstr ""
+msgstr "Hyväksy"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:325
 msgid "Selected"
-msgstr ""
+msgstr "Valitut"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search.php:326
 msgid "Nothing selected, input was"
-msgstr ""
+msgstr "Ei valintaa, sana oli"
 
 #: /var/www/osclass-git/oc-content/themes/modern/search_gallery.php:41
 #: /var/www/osclass-git/oc-content/themes/modern/search_list.php:41
 msgid "Sponsored ad"
-msgstr ""
+msgstr "Sponsoroitu mainos"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:32
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_email.php:33
@@ -522,278 +540,286 @@ msgstr ""
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:33
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:35
 msgid "User account manager"
-msgstr ""
+msgstr "Käyttäjähallinta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:37
 msgid "Your alerts"
-msgstr ""
+msgstr "Oma muistutukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:39
 msgid "You do not have any alerts yet"
-msgstr ""
+msgstr "Sinulla ei ole vielä yhtään muistutusta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:43
 msgid "Alert"
-msgstr ""
+msgstr "Muistutus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:43
 msgid "This action can't be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "Toimintoa ei voi peruttaa. Oletko varma, että haluat jatkaa?"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:43
 msgid "Delete this alert"
-msgstr ""
+msgstr "Poista muistutus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:49
 #: /var/www/osclass-git/oc-content/themes/modern/user-dashboard.php:49
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:49
 msgid "Publication date"
-msgstr ""
+msgstr "Julkaisupäivä"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-alerts.php:57
 msgid "Listings"
-msgstr ""
+msgstr "Ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_email.php:39
 msgid "Change your e-mail"
-msgstr ""
+msgstr "Vaihda sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_email.php:45
 msgid "Current e-mail"
-msgstr ""
+msgstr "Nykyinen sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_email.php:49
 msgid "New e-mail"
-msgstr ""
+msgstr "Uusi sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_password.php:39
 msgid "Change your password"
-msgstr ""
+msgstr "Vaihda salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_password.php:45
 msgid "Current password"
-msgstr ""
+msgstr "Nykyinen salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_password.php:49
 msgid "New password"
-msgstr ""
+msgstr "Uusi salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-change_password.php:53
 msgid "Repeat new password"
-msgstr ""
+msgstr "Toista uusi salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-dashboard.php:39
 #, php-format
 msgid "Listings from %s"
-msgstr ""
+msgstr "Ilmoitukset käyttäjältä %s"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-dashboard.php:41
 msgid "No listings have been added yet"
-msgstr ""
+msgstr "Ei vielä yhtään ilmoitusta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-dashboard.php:52
 msgid "View listing"
-msgstr ""
+msgstr "Näytä ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-dashboard.php:54
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:53
 msgid "Edit"
-msgstr ""
+msgstr "Muokkaa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-dashboard.php:57
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:58
 msgid "Activate"
-msgstr ""
+msgstr "Aktivoi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-forgot_password.php:33
 #: /var/www/osclass-git/oc-content/themes/modern/user-recover.php:33
 msgid "Recover your password"
-msgstr ""
+msgstr "Palauta salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-forgot_password.php:41
 msgid "New pasword"
-msgstr ""
+msgstr "Uusi salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-forgot_password.php:45
 msgid "Repeat new pasword"
-msgstr ""
+msgstr "Toista uusi salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-forgot_password.php:48
 msgid "Change password"
-msgstr ""
+msgstr "Vaihda salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:39
 msgid "Your listings"
-msgstr ""
+msgstr "Omat ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:39
 msgid "Post a new listing"
-msgstr ""
+msgstr "Lisää uusi ilmoitus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:41
 msgid "You don't have any listings yet"
-msgstr ""
+msgstr "Sinulla ei ole vielä yhtään ilmoitusta"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-items.php:55
 msgid "This action can not be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "Toimintoa ei voi peruuttaa. Oletko varma, että haluat jatkaa?"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-login.php:33
 msgid "Access to your account"
-msgstr ""
+msgstr "Kirjaudu omalle tilille"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:41
 msgid "Update your profile"
-msgstr ""
+msgstr "Päivitä omat tiedot"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:55
 msgid "Modify e-mail"
-msgstr ""
+msgstr "Vaihda sähköpostiosoite"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:55
 msgid "Modify password"
-msgstr ""
+msgstr "Vaihda salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:59
 msgid "User type"
-msgstr ""
+msgstr "Käyttäjän tyyppi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:63
 msgid "Cell phone"
-msgstr ""
+msgstr "Matkapuhelin"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:67
 msgid "Phone"
-msgstr ""
+msgstr "Puhelin"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-profile.php:91
 #: /var/www/osclass-git/oc-content/themes/modern/user-public-profile.php:69
 msgid "Website"
-msgstr ""
+msgstr "Www-sivusto"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-public-profile.php:58
 #, php-format
 msgid "%s's profile"
-msgstr ""
+msgstr "Käyttäjän %s profiili"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-public-profile.php:64
 msgid "Profile"
-msgstr ""
+msgstr "Profiili"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-public-profile.php:66
 msgid "Full name"
-msgstr ""
+msgstr "Koko nimi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-public-profile.php:70
 msgid "User Description"
-msgstr ""
+msgstr "Käyttäjän kuvaus"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-public-profile.php:74
 msgid "Latest listings"
-msgstr ""
+msgstr "Uusimmat ilmoitukset"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-recover.php:40
 msgid "Send me a new password"
-msgstr ""
+msgstr "Lähetä uusi salasana"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-register.php:35
 msgid "Register an account for free"
-msgstr ""
+msgstr "Rekisteröi uusi tili ilmaiseksi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-register.php:44
 msgid "Re-type password"
-msgstr ""
+msgstr "Salasana uudelleen"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-register.php:46
 msgid "Passwords don't match"
-msgstr ""
+msgstr "Salasanat eivät täsmää"
 
 #: /var/www/osclass-git/oc-content/themes/modern/user-register.php:51
 msgid "Create"
-msgstr ""
+msgstr "Uusi"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:8
 msgid "Preview"
-msgstr ""
+msgstr "Esikatselu"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:15
 msgid "Remove logo"
-msgstr ""
+msgstr "Poista logo"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:23
 msgid "No logo has been uploaded yet"
-msgstr ""
+msgstr "Ei tallennettua logoa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:26
 msgid "Upload logo"
-msgstr ""
+msgstr "Tallenna logo palvelimelle"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:28
 msgid "The preferred size of the logo is 600x100."
-msgstr ""
+msgstr "Suositeltava koko logolle on 600x100."
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:30
-msgid "<strong>Note:</strong> Uploading another logo will overwrite the current logo."
+msgid ""
+"<strong>Note:</strong> Uploading another logo will overwrite the current "
+"logo."
 msgstr ""
+"<strong>Huomaa:</strong> Logon tallentaminen ylikirjoittaa nykyisen logon."
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:38
 msgid "Logo image (png,gif,jpg)"
-msgstr ""
+msgstr "Logokuva (png,gif,jpg)"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:44
 msgid "Upload"
-msgstr ""
+msgstr "Lataa palvelimelle"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:53
 #, php-format
 msgid "The images folder <strong>%s</strong> is not writable on your server"
-msgstr ""
+msgstr "Palvelimen kuvahakemistoon <strong>%s</strong> ei voi kirjoittaa"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:54
 msgid "OSClass can't upload the logo image from the administration panel."
-msgstr ""
+msgstr "OSClass ei voi tallentaa kuvaa hallintapaneelista."
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:55
 msgid "Please make the aforementioned image folder writable."
-msgstr ""
+msgstr "Tarkista, että mainittuun hakemistoon voi kirjoittaa."
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/header.php:60
-msgid "To make a directory writable under UNIX execute this command from the shell:"
-msgstr ""
+msgid ""
+"To make a directory writable under UNIX execute this command from the shell:"
+msgstr "Hakemistolle voi lisätä kirjoitusoikeudet UNIX shell-komennolla:"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:12
-msgid "I would like to contribute to the development of OSClass with a donation of"
-msgstr ""
+msgid ""
+"I would like to contribute to the development of OSClass with a donation of"
+msgstr "Haluan lahjoittaa OSClass ohjelmiston kehitykseen seuraavan summan"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:17
 msgid "Custom"
-msgstr ""
+msgstr "Joku muu"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:18
 msgid "Donate"
-msgstr ""
+msgstr "Lahjoita"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:28
 msgid "Search placeholder"
-msgstr ""
+msgstr "Hakuesimerkki"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:32
 msgid "Footer link"
-msgstr ""
+msgstr "Alaviitteen linkki"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:34
-msgid "I want to help OSClass by linking to <a href=\"http://osclass.org/\" target=\"_blank\">osclass.org</a> from my site with the following text:"
+msgid ""
+"I want to help OSClass by linking to <a href=\"http://osclass.org/\" target="
+"\"_blank\">osclass.org</a> from my site with the following text:"
 msgstr ""
+"Haluan auttaa OSClass ohjelmistoa lisäämällä linkin <a href=\"http://osclass."
+"org/\" target=\"_blank\">osclass.org</a> sivustolleni seuraavalla tekstillä:"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:39
 msgid "Default logo"
-msgstr ""
+msgstr "Oletuslogo"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:41
 msgid "Show default logo in case you didn't upload one previously"
-msgstr ""
+msgstr "Näytä oletuslogo, jos et ole tallentanut omaa logoa palvelimelle"
 
 #: /var/www/osclass-git/oc-content/themes/modern/admin/settings.php:45
 msgid "Save changes"
-msgstr ""
-
+msgstr "Tallenna muutokset"
