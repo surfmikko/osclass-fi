@@ -22,9 +22,6 @@ _package:
 
 _clean_package:
 	@echo "Cleaning up..."
-	@rm package
-	@if [ -d build ] ; then \
-		echo rm -r "build" ; \
-		rm -r "build" \
-	; fi
+	@if [ -f package ] ; then rm package ; fi
+	@if [ -d build ] ; then rm -r build ; fi
 
