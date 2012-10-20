@@ -19,17 +19,17 @@
  * License along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-function locale_en_US_info() {
+function locale_fi_FI_info() {
     return array(
-         'name'            => 'English (US)'
-        ,'short_name'      => 'English'
-        ,'description'     => 'American english translation'
-        ,'version'         => 2.3
-        ,'author_name'     => 'OSClass'
-        ,'author_url'      => 'http://osclass.org/'
+         'name'            => 'Suomi (FI)'
+        ,'short_name'      => 'Suomi'
+        ,'description'     => 'Suomenkielinen käännös'
+        ,'version'         => 1.0
+        ,'author_name'     => 'Mikko Vatanen'
+        ,'author_url'      => 'http://www.purjelautaliitto.fi/'
         ,'currency_format' => '{NUMBER} {CURRENCY}'
-        ,'date_format'     => 'm/d/Y'
-        ,'stop_words'      => 'i,a,about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,was,what,when,where,who,will,with,the'
+        ,'date_format'     => 'd.m.Y'
+        ,'stop_words'      => 'että,jotta,koska,kun,jos,vaikka,kuin,ja,sekä,että,myös,minä,sinä,hän,me,te,he'
     );
 }
 
